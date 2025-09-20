@@ -1,0 +1,77 @@
+{
+  "fields": [
+    {
+      "name": "Employee_ID",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "First Name",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Last Name",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Gender",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "State",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "City",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Education Level",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Birthdate",
+      "type": "date",
+      "format": "%d/%m/%Y"
+    },
+    {
+      "name": "Hiredate",
+      "type": "date",
+      "format": "%d/%m/%Y"
+    },
+    {
+      "name": "Termdate",
+      "type": "date",
+      "format": "%d/%m/%Y"
+    },
+    {
+      "name": "Department",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Job Title",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Salary",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Performance Rating",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
